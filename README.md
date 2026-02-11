@@ -5,7 +5,7 @@ hi
 cd ~/ros2_ws/src
 
 
-git clone "github url
+git clone https://github.com/mohamed4hanon/hoverboard_ros2.git
 # chinge dir again
 cd ~/ros2_ws
 

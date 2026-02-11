@@ -3,7 +3,7 @@
   <name>mohamed_ros2</name>
   <version>1.0.0</version>
   <description>Hoverboard Serial Package</description>
-  <maintainer email="mohamed@todo.todo">mohamed</maintainer>
+  <maintainer email="mohamed@gmail.com">mohamed</maintainer>
   <license>MIT</license>
 
   <depend>rclpy</depend>
